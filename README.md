@@ -39,6 +39,6 @@ Zillow Zestimate Kaggle competition: https://www.kaggle.com/c/zillow-prize-1
 
 All features are described by the zillow_data_dictionary.xlsx
 
-
+[usefull](https://nycdatascience.com/blog/student-works/zillow-zestimate-kaggle-competition/)
 
 
