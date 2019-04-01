@@ -26,10 +26,10 @@ Main code is provided in the drajashe_Project_Zillow.ipynb notebook file.
 ## Run
 In a terminal or command window, navigate to the top-level project directory Zillow_zestimate_error/zillow (that contains this README) and run one of the following commands:
 
-ipython notebook RLatimerZillow.ipynb.ipynb
+ipython notebook drajashe_Project_Zillow.ipynb
 or
 
-jupyter notebook RLatimerZillow.ipynb.ipynb
+jupyter notebook drajashe_Project_Zillow.ipynb
 This will open the Jupyter Notebook software and project file in your browser.
 
 ## Data
